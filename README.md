@@ -1,1 +1,1 @@
-# Osticket---Ticket-Lifecycle-Creation-to-Resolution
+# Osticket-Ticket Lifecycle:Creation to Resolution
