@@ -61,7 +61,7 @@ In this lab, I dived into the process of managing tickets. I initiated this by s
 4. Log in as administrator to view the status of the ssigned tickets
  </p>
 <p>
- <img src="https://i.imgur.com/CKbvEJY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src="https://i.imgur.com/X50x0at.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 
