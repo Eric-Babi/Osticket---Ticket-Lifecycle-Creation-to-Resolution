@@ -41,8 +41,28 @@ In this lab, I dived into the process of managing tickets. I initiated this by s
   <img src="https://i.imgur.com/D3Igoe6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
-
+- Changed Priority to High
+<p>
+  <p>
+  <img src="https://i.imgur.com/B0zpcHa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+3. Logged in as an agent to work on assigned ticket
+<p>
+  <p>
+  <img src="https://i.imgur.com/RrEydke.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  - Worked on the issue and updated status to resolved
+  </p>
+<p>
+ <img src="https://i.imgur.com/EQPUCkF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+4. Log in as administrator to view the status of the ssigned tickets
+ </p>
+<p>
+ <img src="https://i.imgur.com/CKbvEJY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 
 
 
